@@ -90,7 +90,7 @@ public class Main {
         System.out.println("[2] Ordenar por categoria");
         System.out.println("[3] Ordenar por avaliação");
         System.out.println("[4] Sair");
-        System.out.print("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-");
+        System.out.print("Opção: ");
     }
 
     public static void main(String[] args) {
